@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="center" width=200 src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<img align="right" width=200 src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 ![Yashraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashraj2003e&show_icons=true&theme=vue-dark&border_color=008080) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashraj2003e&theme=vue-dark&border_color=008080)](https://github.com/yashraj2003e/github-readme-stats)
