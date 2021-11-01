@@ -1,5 +1,4 @@
 <img align="right" width=500 src="./assets/Hello.gif">
-<img align="right" width=450 src="./assets/Arrow-unscreen.gif">
 <br />
 
 <img align="left" width="35px" src="./assets/Hi.gif">Hey there, I am Yashraj, 17. Student at Kendriya Vidyalaya CRPF, Bangalore. A Certified Data Science Expert 😁. 
@@ -13,10 +12,9 @@ My passion is to code and my goal is to improve myself [1% better everyday](http
 
 <h2> Github Stats 😉 </h2>
 <a>
-  <img align="left" width=450 src="https://github-readme-stats.vercel.app/api?username=yashraj2003e&show_icons=true&theme=vue-dark&border_color=008080">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashraj2003e&show_icons=true&theme=vue-dark&border_color=008080">
 </a>
-<br />
 
-<a align="left" href="https://github.com/yashraj2003e/github-readme-stats">
+<a href="https://github.com/yashraj2003e/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yashraj2003e&theme=vue-dark&border_color=008080">
 </a>
