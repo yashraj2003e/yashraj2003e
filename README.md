@@ -1,5 +1,4 @@
-<h1 align="center">print("Hello World !")</h1>
-<h3 align="center">Artifical Intelligence & IoT enthusiast</h3>
+<img align="right" width=500 src="./assets/Hello.gif">
 <br />
 
 <img align="left" width="35px" src="./assets/Hi.gif">Hey there, I am Yashraj, 17. Student at Kendriya Vidyalaya CRPF, Bangalore. A Certified Data Science Expert 😁. 
