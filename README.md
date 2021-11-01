@@ -1,7 +1,14 @@
 <h1 align="center">print("Hello World !")</h1>
 <h3 align="center">Data Science Expert, Artifical Intelligence & IoT enthusiast</h3>
-- I'm currently working on Machine Learning Projects
-<p align="right"><a href="https://github.com/yashraj2003e"><img width="80%" src="./assets/hacktoberfest.png" /></a></p>
+<br />
+
+Hey there, I am Yashraj, 17. Student at Kendriya Vidyalaya CRPF, Bangalore. My passion is to code and my goal is to improve myself [1% better everyday](https://github.com/yashraj2003e/yashraj2003e/assets/1%-better.png).
+
+- 😄 An Alumni of Zero-To-Mastery Academy
+<img align="center" width=400 src="./assets/ZTM.png">
+<!--<p align="right"><a href="https://github.com/yashraj2003e"><img width="80%" src="./assets/hacktoberfest.png" /></a></p>-->
+
+---
 
 <h2> My Github Stats 😉 </h2>
 
