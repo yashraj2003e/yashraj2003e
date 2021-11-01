@@ -3,7 +3,7 @@
 <br />
 
 <img align="left" width="35px" src="./assets/Hi.gif">Hey there, I am Yashraj, 17. Student at Kendriya Vidyalaya CRPF, Bangalore. A Certified Data Science Expert 😁. 
-My passion is to code and my goal is to improve myself [1% better everyday](https://github.com/yashraj2003e/yashraj2003e/blob/main/assets/1%25-better.png). Keeping the maths aside, I love to solve problems. Currently, I am learning Tensorflow library.
+My passion is to code and my goal is to improve myself [1% better everyday](https://github.com/yashraj2003e/yashraj2003e/blob/main/assets/1%25-better.png). Keeping the maths aside, I love to solve problems. Currently, I am learning [Tensorflow library](https://www.tensorflow.org/).
 
 Also, I'm a Full-Stack Web Developer, Graphics Designer, App Developer and an Ethical Hacker.
 
@@ -13,11 +13,7 @@ Also, I'm a Full-Stack Web Developer, Graphics Designer, App Developer and an Et
 - <h4>🥳 Contributed to Hacktoberfest - 2021</h4>
 <a href="https://hacktoberfest.digitalocean.com/"> <img align="center" width=400 src="./assets/Hacktoberfest - 2021.png"> </a>
 
-- <h4>😅 an Aspiring Solopreneur - 2021</h4>
-
----
-
-<h2> My Github Stats 😉 </h2>
+<h2> Github Stats 😉 </h2>
 <a>
   <img src="https://github-readme-stats.vercel.app/api?username=yashraj2003e&show_icons=true&theme=vue-dark&border_color=008080">
 </a>
