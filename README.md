@@ -8,10 +8,10 @@ My passion is to code and my goal is to improve myself [1% better everyday](http
 Also, I'm a Full-Stack Web Developer, Graphics Designer, App Developer and an Ethical Hacker.
 
 - <h4>😄 An Alumni of Zero-To-Mastery Academy</h4>
-<img align="center" width=400 src="./assets/ZTM.png">
+<img align="center" width=400 href="https://zerotomastery.io/" src="./assets/ZTM.png">
 
 - <h4>🥳 Contributed to Hacktoberfest - 2021</h4>
-<img align="center" width=400 src="./assets/Hacktoberfest - 2021.png">
+<img align="center" width=400 href="https://hacktoberfest.digitalocean.com/" src="./assets/Hacktoberfest - 2021.png">
 
 ---
 
@@ -22,4 +22,3 @@ Also, I'm a Full-Stack Web Developer, Graphics Designer, App Developer and an Et
 <a href="https://github.com/yashraj2003e/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yashraj2003e&theme=vue-dark&border_color=008080">
 </a>
-                                                                                                                                                    
