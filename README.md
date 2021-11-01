@@ -1,7 +1,6 @@
 <h1 align="center">print("Hello World !")</h1>
-<h3 align="center">   Data Science Expert, Artifical Intelligence & IoT enthusiast</h3>
-
-By the way, I am Yashraj, you won't find me working in any company because currently i'm in school
+<h3 align="center">Data Science Expert, Artifical Intelligence & IoT enthusiast</h3>
+- I'm currently working on Machine Learning Projects
 <h2> My Github Stats 😉 </h2>
 
 ![Yashraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashraj2003e&show_icons=true&theme=vue-dark&border_color=008080)
