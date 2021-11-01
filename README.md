@@ -14,7 +14,7 @@ Also, I'm a Full-Stack Web Developer, Graphics Designer, App Developer and an Et
 <a href="https://hacktoberfest.digitalocean.com/"> <img align="center" width=400 src="./assets/Hacktoberfest - 2021.png"> </a>
 
 - <h4>😅 an Aspiring Solopreneur - 2021</h4>
-<a href=https://en.wikipedia.org/wiki/Machine_learning> <img align="center" width=400 src="./assets/Brain.png"> </a>
+
 ---
 
 <h2> My Github Stats 😉 </h2>
