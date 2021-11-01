@@ -21,6 +21,6 @@ Also, I'm a Full-Stack Web Developer, Graphics Designer, App Developer and an Et
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=yashraj2003e&show_icons=true&theme=vue-dark&border_color=008080">
 </a>
 <a href="https://github.com/yashraj2003e/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=yashraj2003e&theme=vue-dark&layout=compact&border_color=008080" width = 435>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=yashraj2003e&theme=vue-dark&layout=compact&border_color=008080" width = 430>
 </a>
                                                                                                                                                     
