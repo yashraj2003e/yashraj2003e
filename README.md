@@ -25,9 +25,9 @@ My passion is to code and my goal is to improve myself [1% better everyday](http
 
 <h2> Github Stats 😉 </h2>
 <a>
-  <img src="https://github-readme-stats.vercel.app/api?username=yashraj2003e&show_icons=true&theme=vue-dark&border_color=008080">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashraj2003e&show_icons=true&theme=merko&border_color=008080">
 </a>
 
 <a href="https://github.com/yashraj2003e/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yashraj2003e&theme=vue-dark&border_color=008080">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yashraj2003e&theme=merko&border_color=008080">
 </a>
