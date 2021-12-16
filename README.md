@@ -9,7 +9,7 @@ My passion is to code and my goal is to improve myself [1% better everyday](http
     <a href="https://zerotomastery.io/"> <img align="center" width=250 src="./assets/ZTM.png"> </a>
 
   - <h4>🥳 Completed Hacktoberfest - 2021</h4>
-  <a href="https://hacktoberfest.digitalocean.com/"> <img align="center" width=220 src="./assets/Hacktoberfest_2.png"> </a>
+    <a href="https://hacktoberfest.digitalocean.com/"> <img align="center" width=250 src="./assets/Hacktoberfest_2.png"> </a>
 </p>
 
 ---
