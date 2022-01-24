@@ -16,7 +16,7 @@ My passion is to code and my goal is to improve myself [1% better everyday](http
 
 <h3 align="left">Programming Languages : </h3>
 <p>
-  <!--<img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> -->
+  <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <!--<img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />-->
