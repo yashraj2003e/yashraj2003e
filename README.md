@@ -39,7 +39,7 @@ My passion is to code and my goal is to improve myself [1% better everyday](http
 
 ---
 
-<h2> Github Stats 😉 </h2>
+<h2> Github Stats 😉 (2022) </h2>
 
 | <a href="https://github.com/yashraj2003e/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yashraj2003e&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" alt="Yashraj's github stats" /></a> | <a href="https://github.com/yashraj2003e/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yashraj2003e&theme=merko&border_color=008080" /></a> |
 | ------------- | ------------- |
