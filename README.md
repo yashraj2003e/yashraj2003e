@@ -1,7 +1,7 @@
 <img align="right" width=400 src="./assets/Lazy_Programmer.gif">
 
-<img align="left" width="35px" src="./assets/Hi.gif">Hey there, I am Yashraj, 18. Fresher at Presidency University, Bangalore. A Data Science Enthusiast. 
-My passion is to code and my goal is to improve myself [1% better everyday](https://github.com/yashraj2003e/yashraj2003e/blob/main/assets/1%25-better.png). Keeping the maths aside, I love to solve problems. Currently, I am learning [Tensorflow](https://www.tensorflow.org/).
+<img align="left" width="35px" src="./assets/Hi.gif">Hey there, I am Yashraj, 18. Sophomore at Presidency University, Bangalore. A Data Science Enthusiast. 
+My passion is to code and my goal is to improve myself [1% better everyday](https://github.com/yashraj2003e/yashraj2003e/blob/main/assets/1%25-better.png). Keeping the maths aside, I love to solve problems. <!--Currently, I am learning [Tensorflow](https://www.tensorflow.org/). -->
 
 <p>
 
