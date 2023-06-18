@@ -40,5 +40,5 @@
 
 <h2> Github Stats 😉 (2022) </h2>
 
-| <a href="https://github.com/yashraj2003e/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yashraj2003e&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" alt="Yashraj's github stats" /></a> | <a href="https://github.com/yashraj2003e/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yashraj2003e&theme=merko&border_color=008080" /></a> |
+| <a href="https://github.com/yashraj2003e/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashraj2003e&hide_progress=false" alt="Yashraj's github stats" /></a> | <a href="https://github.com/yashraj2003e/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yashraj2003e&theme=merko&border_color=008080" /></a> |
 | ------------- | ------------- |
