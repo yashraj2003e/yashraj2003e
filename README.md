@@ -1,6 +1,6 @@
 <img align="right" width=400 src="./assets/Lazy_Programmer.gif">
 
-<img align="left" width="35px" src="./assets/Hi.gif">Hey there, I am Yashraj, 19. I am passionate about Computer Science and been exploring different fields in it.
+<img align="left" width="35px" src="./assets/Hi.gif">Hey there, I am Yashraj, 20. I love solving Algorithmic Problems.
  <!--Currently, I am learning [Tensorflow](https://www.tensorflow.org/). -->
 
 <p>
