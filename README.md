@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I+am+Yashraj!;" />
 </h1>
 
-<h3 align="center">A Full Stack Web Developer from India 🇮🇳</h3>
+<h3 align="center">A Full Stack Web Developer and Data Scientist from India 🇮🇳</h3>
 
 <br/>
 
@@ -14,7 +14,11 @@
  
  🌱 I’m currently learning **Typescript, Machine Learning**
 
-💬 Ask me about **React.js, Node.js, MongoDB... or anything [here](https://github.com/yashraj2003e/yashraj2003e/issues)**
+ 💬 Ask me about **Data Science, React.js, MongoDB... or anything [here](https://github.com/yashraj2003e/yashraj2003e/issues)**
+ 
+ 🤝 I Have contributed to **Hacktoberfest** 2021 and 2022
+
+ 💻 I possess strong knowledge of **C++, Python and Javascript**
 
  </div>
  
@@ -32,8 +36,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,c,tensorflow,react,bootstrap,mui,vscode,github,matlab" />
-    <img src="https://skillicons.dev/icons?i=html,css,git,r,nodejs,typescript,express,firebase,mongodb,tailwind,mysql,php" /><br>
+    <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,c,tensorflow,react,bootstrap,mui,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,git,r,nodejs,typescript,express,firebase,mongodb,tailwind,mysql" /><br>
 </div>
 
 <br/>
