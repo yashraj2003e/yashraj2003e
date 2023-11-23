@@ -5,7 +5,6 @@
 </h1>
 
 <h3 align="center">A Full Stack Web Developer and Data Scientist from India 🇮🇳</h3>
-
 <br/>
 
 <div align="center">
