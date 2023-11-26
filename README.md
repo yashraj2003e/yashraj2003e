@@ -15,7 +15,7 @@
 
  💬 Ask me about **Data Science, React.js, MongoDB... or anything [here](https://github.com/yashraj2003e/yashraj2003e/issues)**
  
- 🤝 I Have contributed to **Hacktoberfest** 2021 and 2022
+ 🤝 Contributed to **Hacktoberfest** 2021 and 2022
 
  💻 I possess strong knowledge of **C++, Python and Javascript**
 
