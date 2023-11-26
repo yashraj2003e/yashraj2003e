@@ -51,7 +51,13 @@
 <div align="center">
   <br>
   <img src="https://holopin.me/yashraj2003e">
-  <br/><br/><br/>
+</div>
+
+<div align="center">
+ <h2>💻 Coding Activity This Year (Powered by wakatime.com) 💻</h2>
+ <br>
+ <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Charlie16_/ad596bb7-aab0-4382-b8f4-8e67392d485e.svg"></img></a>
+ <br/>
 </div>
 
 <hr/>
