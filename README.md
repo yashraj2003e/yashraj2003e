@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Real-Time Code Sharing Web App**
+ 🔭 I’m currently working on **Real-Time Code Sharing Web App and Note Making App**
  
  🌱 I’m currently learning **Typescript, Machine Learning**
 
