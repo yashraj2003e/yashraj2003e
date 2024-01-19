@@ -71,7 +71,10 @@
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=yashraj2003e&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<br/><br/>
-
+<!-- <br/><br/> -->
+<br>
+<h2 align="center">⏩And I am a fast typist⏩</h2>
+<div align=center>
+    <a href="https://data.typeracer.com/pit/profile?user=yashraj2003e&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=yashraj2003e" border="0" alt="TypeRacer.com scorecard for user yashraj2003e"/></a>
+</div>
 <hr/>
-<br/>
