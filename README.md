@@ -11,7 +11,7 @@
  
  🔭 I’m currently working on **Note Making App**
  
- 🌱 I’m currently learning **Typescript, Three.js and Neovim**
+ 🌱 I’m currently learning **Typescript, Three.js**
 
  💬 Ask me about **Data Science, React.js, MongoDB... or anything [here](https://github.com/yashraj2003e/yashraj2003e/issues)**
  
