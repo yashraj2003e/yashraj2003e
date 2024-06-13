@@ -4,20 +4,20 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I+am+Yashraj!;" />
 </h1>
 
-<h3 align="center">A Full Stack Web Developer and Data Scientist from India 🇮🇳</h3>
+<h3 align="center">A Full Stack Web Developer and Competitive Programmer 🇮🇳</h3>
 <br/>
 
 <div align="center">
  
  🔭 I’m currently working on **Note Making App**
  
- 🌱 I’m currently learning **Typescript, Three.js**
+ 🌱 I’m currently learning **Typescript, CP Algorithms**
 
  💬 Ask me about **Data Science, React.js, MongoDB... or anything [here](https://github.com/yashraj2003e/yashraj2003e/issues)**
  
- 🤝 Contributed to **Hacktoberfest** 2021 and 2022
+ 🤝 Contributed to **Hacktoberfest** 2022
 
- 💻 I possess strong knowledge of **C++, Python and Javascript**
+ 💻 I possess good knowledge of **C++, Python and Javascript**
 
  </div>
  
@@ -56,7 +56,7 @@
 <div align="center">
  <h2>💻 Coding Activity This Year (Powered by wakatime.com) 💻</h2>
  <br>
- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Charlie16_/ad596bb7-aab0-4382-b8f4-8e67392d485e.svg"></img></a>
+ <a href="https://wakatime.com"><img src="https://wakatime.com/share/@yashhRaj/ad596bb7-aab0-4382-b8f4-8e67392d485e.svg"></img></a>
  <br/>
 </div>
 
