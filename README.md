@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I+am+Yashraj!;" />
 </h1>
 
-<h3 align="center">A Full Stack Web Developer 🇮🇳</h3>
+<h3 align="center">A Full Stack Web Developer and Competitive Programmer 🇮🇳</h3>
 <br/>
 
 <div align="center">
@@ -62,6 +62,7 @@
 
 <hr/>
 
+
 <h2 align="center">⚡Github Stats⚡</h2>
 <br>
 <div align=center>
@@ -72,6 +73,14 @@
 </div>
 
 <hr/>
+
+<h2 align="center">⚡Leetcode Stats⚡</h2>
+<br>
+<div align=center>
+    <img width=390 src="https://leetcard.jacoblin.cool/yashhRaj?border=0&radius=10&theme=nord&font=roboto&ext=heatmap" alt="Leetcode Stats"/>
+</div>
+
+<br>
 <h2 align="center">⏩And I am a fast typist⏩</h2>
 <div align=center>
     <a href="https://data.typeracer.com/pit/profile?user=yashraj2003e&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=yashraj2003e" border="0" alt="TypeRacer.com scorecard for user yashraj2003e"/></a>
