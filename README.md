@@ -30,7 +30,7 @@
   </a>
 </div>
 
- <hr/>
+<hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -40,6 +40,13 @@
 </div>
 
 <br/>
+
+<div align="center">
+    <a href="https://api.badgr.io/public/assertions/ki7J85w5SrKv4b69wqwwyQ?identity__email=yashsharmau9%40gmail.com">
+        <img src="https://badgr.com/public/assertions/ki7J85w5SrKv4b69wqwwyQ/image" alg="Postman Badge" height=200 width=200/>
+    </a>
+</div>
+
 <hr/>
 
 <div align="center">
