@@ -40,6 +40,10 @@
 </div>
 
 <br/>
+
+<div align="center">
+    <a href="https://api.badgr.io/public/assertions/ki7J85w5SrKv4b69wqwwyQ?identity__email=yashsharmau9%40gmail.com"><img src="https://badgr.com/public/assertions/ki7J85w5SrKv4b69wqwwyQ/image" width=200 height=200 title="Badge: Postman API Fundamentals Student Expert" /></a>
+</div>
 <hr/>
 
 <div align="center">
