@@ -9,11 +9,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Note Making App**
+ 🔭 I’m currently working on **Real Estate Application**
  
- 🌱 I’m currently learning **Typescript, CP Algorithms**
+ 🌱 I’m currently learning **Express.js, Kubernetes, CP Algorithms**
 
- 💬 Ask me about **Data Science, React.js, MongoDB... or anything [here](https://github.com/yashraj2003e/yashraj2003e/issues)**
+ 💬 Ask me about **DevOps, React.js, MongoDB... or anything [here](https://github.com/yashraj2003e/yashraj2003e/issues)**
  
  🤝 Contributed to **Hacktoberfest** 2022
 
@@ -35,8 +35,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,c,tensorflow,react,bootstrap,mui,vscode,github" />
-    <img src="https://skillicons.dev/icons?i=html,css,git,r,nodejs,typescript,express,firebase,mongodb,tailwind,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,python,cpp,react,redux,nodejs,express,tailwind,aws" /><br>
+    <img src="https://skillicons.dev/icons?i=git,netlify,docker,jenkins,kubernetes,mysql,mongodb,windows,linux" /><br>
 </div>
 
 <br/>
