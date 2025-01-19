@@ -80,13 +80,6 @@
 </div>
 
 <hr/>
-
-<h2 align="center">⚡Leetcode Stats⚡</h2>
-<br>
-<div align=center>
-    <img width=390 src="https://leetcard.jacoblin.cool/yashhRaj?border=0&radius=10&theme=nord&font=roboto&ext=heatmap" alt="Leetcode Stats"/>
-</div>
-
 <br>
 <h2 align="center">⏩And I am a fast typist⏩</h2>
 <div align=center>
