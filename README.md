@@ -79,6 +79,7 @@
 <br>
 <h2 align="center">⏩And I am a fast typist⏩</h2>
 <div align=center>
-    <a href="https://data.typeracer.com/pit/profile?user=yashraj2003e&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=yashraj2003e" border="0" alt="TypeRacer.com scorecard for user yashraj2003e"/></a>
+    <!-- <a href="https://data.typeracer.com/pit/profile?user=yashraj2003e&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=yashraj2003e" border="0" alt="TypeRacer.com scorecard for user yashraj2003e"/></a> -->
+    <a href="https://data.typeracer.com/pit/profile?user=yasshraj&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=yasshraj" border="0" alt="TypeRacer.com scorecard for user yasshraj"/></a>
 </div>
 <hr/>
