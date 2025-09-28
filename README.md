@@ -1,17 +1,13 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yashraj2003e.yashraj2003e" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I+am+Yashraj!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;" />
 </h1>
 
 <h3 align="center">A Full Stack Web Developer and Competitive Programmer 🇮🇳</h3>
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **Real Estate Application**
- 
- 🌱 I’m currently learning **Express.js, Kubernetes, CP Algorithms**
 
  💬 Ask me about **DevOps, React.js, MongoDB... or anything [here](https://github.com/yashraj2003e/yashraj2003e/issues)**
  
@@ -60,12 +56,12 @@
   <img src="https://holopin.me/yashraj2003e">
 </div>
 
-<div align="center">
+<!-- <div align="center">
  <h2>💻 Coding Activity This Year (Powered by wakatime.com) 💻</h2>
  <br>
  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@yashhRaj/ad596bb7-aab0-4382-b8f4-8e67392d485e.svg"></img></a>
  <br/>
-</div>
+</div> -->
 
 <hr/>
 
